@@ -60,7 +60,7 @@ To run the application in a Docker container:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/mohammedkilany/fx-deal-analyzer.git
+   git clone https://github.com/mohammedkilany/fx-deal-kilany.git
    ```
 
 2. **Navigate to the project directory**:
