@@ -1,0 +1,11 @@
+D:\ProgressSoft\fx-deal-kilany\fx-deal-kilany\src\main\java\com\bloomberg\fxdealanalyzer\repository\FXDealRepository.java
+D:\ProgressSoft\fx-deal-kilany\fx-deal-kilany\src\main\java\com\bloomberg\fxdealanalyzer\controller\FXDealController.java
+D:\ProgressSoft\fx-deal-kilany\fx-deal-kilany\src\main\java\com\bloomberg\fxdealanalyzer\model\FXDealRequest.java
+D:\ProgressSoft\fx-deal-kilany\fx-deal-kilany\src\main\java\com\bloomberg\fxdealanalyzer\exception\DealAlreadyProcessedException.java
+D:\ProgressSoft\fx-deal-kilany\fx-deal-kilany\src\main\java\com\bloomberg\fxdealanalyzer\model\FXDealEntity.java
+D:\ProgressSoft\fx-deal-kilany\fx-deal-kilany\src\main\java\com\bloomberg\fxdealanalyzer\service\FXDealService.java
+D:\ProgressSoft\fx-deal-kilany\fx-deal-kilany\src\main\java\com\bloomberg\fxdealanalyzer\FxDealAnalyzerApplication.java
+D:\ProgressSoft\fx-deal-kilany\fx-deal-kilany\src\main\java\com\bloomberg\fxdealanalyzer\validator\CurrencyCodeValidator.java
+D:\ProgressSoft\fx-deal-kilany\fx-deal-kilany\src\main\java\com\bloomberg\fxdealanalyzer\annotation\ValidCurrency.java
+D:\ProgressSoft\fx-deal-kilany\fx-deal-kilany\src\main\java\com\bloomberg\fxdealanalyzer\exception\GlobalExceptionHandler.java
+D:\ProgressSoft\fx-deal-kilany\fx-deal-kilany\src\main\java\com\bloomberg\fxdealanalyzer\confiuration\FXDealConfiguration.java
